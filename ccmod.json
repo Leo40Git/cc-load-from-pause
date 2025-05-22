@@ -6,5 +6,8 @@
     "repository": "https://github.com/Leo40Git/cc-load-from-pause",
     "tags": ["QoL"],
     "authors": ["ADudeCalledLeo"],
+    "icons": {
+        "24": "icon24.png"
+    },
     "prestart": "prestart.js"
 }
