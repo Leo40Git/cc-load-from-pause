@@ -1,0 +1,10 @@
+{
+    "id": "load-from-pause",
+    "version": "1.0.0",
+    "title": "Load from Pause",
+    "description": "Adds a 'Load Game' button to the pause menu.",
+    "repository": "https://github.com/Leo40Git/cc-load-from-pause",
+    "tags": ["QoL"],
+    "authors": ["ADudeCalledLeo"],
+    "prestart": "prestart.js"
+}
