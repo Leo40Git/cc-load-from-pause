@@ -9,5 +9,8 @@
     "icons": {
         "24": "icon24.png"
     },
+    "dependencies": {
+        "nax-ccuilib": ">=1.5.0"
+    },
     "prestart": "prestart.js"
 }
